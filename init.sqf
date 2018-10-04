@@ -1,0 +1,1 @@
+[] call sKa_fnc_initiate;
